@@ -17,6 +17,6 @@ Professionals and students who need to use SQL regularly for work or school.
 ##  4. How to Install
 Download this file.
 Install it into your AI agent.
-# # 5. How to Use
+##  5. How to Use
 Upload your schema details (field/column names, database introduction, or tables) to the AI agent.
 Describe what data or statistics you want to retrieve in plain language.
